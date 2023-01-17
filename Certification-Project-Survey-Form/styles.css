@@ -1,3 +1,8 @@
 label {
     display: block;
 }
+
+fieldset {
+    border: none;
+    padding: 1rem 0;
+}
