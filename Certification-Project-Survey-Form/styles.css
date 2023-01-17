@@ -13,3 +13,8 @@ form {
     min-width: 300px;
     width: 60vw;
 }
+
+h1, p {
+    margin: 1rem auto;
+    text-align: center;
+}
