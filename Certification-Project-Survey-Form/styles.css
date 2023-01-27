@@ -31,3 +31,7 @@ body {
 .description {
     font-style: italic;
 }
+
+input, select, textarea {
+    width: 100%;
+}
