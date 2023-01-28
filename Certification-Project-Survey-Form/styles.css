@@ -55,3 +55,7 @@ input, select, textarea {
 .inline {
     width: unset;
 }
+
+.form-control {
+    height: 2rem;
+}
