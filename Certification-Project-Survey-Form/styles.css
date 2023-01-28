@@ -20,6 +20,9 @@ form {
 
 h1, p {
     margin: 1rem auto;
+}
+
+.text-center {
     text-align: center;
 }
 
