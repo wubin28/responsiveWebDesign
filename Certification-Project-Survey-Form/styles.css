@@ -32,6 +32,10 @@ body {
     font-style: italic;
 }
 
+.form-group {
+    margin: 0 auto 1.25rem auto;
+}
+
 input, select, textarea {
     width: 100%;
 }
