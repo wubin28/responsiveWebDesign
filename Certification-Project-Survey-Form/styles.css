@@ -36,6 +36,13 @@ body {
     margin: 0 auto 1.25rem auto;
 }
 
+.submit-button {
+    background-color: #37af65;
+    color: white;
+    padding: 0.75rem;
+    border-width: 0;
+}
+
 input, select, textarea {
     width: 100%;
 }
