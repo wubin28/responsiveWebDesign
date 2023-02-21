@@ -13,3 +13,12 @@ body {
     width: 100%;
     max-width: 850px;
 }
+
+figure {
+    background-color: white;
+    padding: 10px;
+}
+
+figcaption {
+    padding: 20px 10px 10px;
+}
