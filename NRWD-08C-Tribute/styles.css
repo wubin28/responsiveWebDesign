@@ -10,4 +10,6 @@ body {
 #image {
     display: block;
     margin: 0 auto 0;
+    width: 100%;
+    max-width: 850px;
 }
