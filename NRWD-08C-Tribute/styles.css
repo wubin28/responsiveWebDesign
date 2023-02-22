@@ -4,7 +4,6 @@
 
 body {
     font-family: sans-serif;
-    background-color: #eeeeee;
 }
 
 #image {
@@ -34,4 +33,9 @@ li, blockquote {
     margin: auto;
     line-height: 150%;
     max-width: 500px;
+}
+
+main {
+    margin: 30px 2px;
+    background-color: #eeeeee;
 }
