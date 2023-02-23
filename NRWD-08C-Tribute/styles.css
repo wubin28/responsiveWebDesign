@@ -25,6 +25,7 @@ figcaption {
 
 #title {
     padding: 40px 0px 0px;
+    margin: 40px auto;
 }
 
 li, blockquote {
@@ -38,4 +39,8 @@ li, blockquote {
 main {
     margin: 30px 2px;
     background-color: #eeeeee;
+}
+
+#timeline-title {
+    margin: 60px auto;
 }
