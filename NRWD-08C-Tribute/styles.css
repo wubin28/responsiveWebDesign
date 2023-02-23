@@ -36,6 +36,10 @@ li, blockquote {
     max-width: 500px;
 }
 
+blockquote {
+    font-style: italic;
+}
+
 main {
     margin: 30px 2px;
     background-color: #eeeeee;
