@@ -42,9 +42,10 @@ blockquote {
 
 main {
     margin: 30px 2px;
+    padding: 20px 0px;
     background-color: #eeeeee;
 }
 
 #timeline-title {
-    margin: 60px auto;
+    margin: 50px auto 20px;
 }
