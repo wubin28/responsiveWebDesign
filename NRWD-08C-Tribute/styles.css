@@ -30,6 +30,13 @@ h2 {
     font-size: 1.95rem;
 }
 
+#main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
 ul {
     text-align: left;
 }
@@ -64,12 +71,6 @@ li, blockquote {
 
 blockquote {
     font-style: italic;
-}
-
-main {
-    margin: 30px 2px;
-    padding: 20px 0px;
-    background-color: #eeeeee;
 }
 
 #timeline-title {
