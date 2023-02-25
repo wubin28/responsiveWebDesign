@@ -37,6 +37,12 @@ h2 {
     background: #eee;
 }
 
+@media (max-width: 460px) {
+    #main {
+        margin: 0;
+    }
+}
+
 ul {
     text-align: left;
 }
