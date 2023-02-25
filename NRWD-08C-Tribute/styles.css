@@ -47,10 +47,6 @@ ul {
     text-align: left;
 }
 
-blockquote {
-    text-align: left;
-}
-
 #image {
     display: block;
     margin: 0 auto 0;
@@ -77,6 +73,7 @@ li, blockquote {
 
 blockquote {
     font-style: italic;
+    text-align: left;
 }
 
 #timeline-title {
