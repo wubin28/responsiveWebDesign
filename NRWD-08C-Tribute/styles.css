@@ -26,6 +26,10 @@ h1 {
     }
 }
 
+h2 {
+    font-size: 1.95rem;
+}
+
 ul {
     text-align: left;
 }
@@ -69,5 +73,5 @@ main {
 }
 
 #timeline-title {
-    margin: 50px auto 20px;
+    margin: 50px 0;
 }
