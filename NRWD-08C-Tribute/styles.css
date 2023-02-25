@@ -53,6 +53,7 @@ h2 {
 figure {
     background-color: white;
     padding: 10px;
+    margin: 0;
 }
 
 figcaption {
