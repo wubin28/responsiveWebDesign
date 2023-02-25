@@ -14,6 +14,11 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
 ul {
     text-align: left;
 }
@@ -36,11 +41,6 @@ figure {
 
 figcaption {
     padding: 20px 0px 10px;
-}
-
-#title {
-    padding: 40px 0px 0px;
-    margin: 40px auto;
 }
 
 li, blockquote {
