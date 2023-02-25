@@ -59,6 +59,12 @@ figcaption {
     margin: 15px 0 5px 0;
 }
 
+@media (max-width: 460px) {
+    figcaption {
+        font-size: 1.4rem;
+    }
+}
+
 #timeline-title {
     margin: 50px 0;
 }
