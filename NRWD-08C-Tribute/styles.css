@@ -45,7 +45,7 @@ h2 {
 
 #image {
     display: block;
-    margin: 0 auto 0;
+    margin: 0 auto;
     height: auto;
     max-width: 100%;
 }
